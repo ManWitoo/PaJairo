@@ -10,6 +10,14 @@
       "scopes": [
         "jp.keijiro"
       ]
-    }
+    },
+    {
+      "name": "JaimeCamachoDev",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "com.jaimecamacho"
+      ],
+      "overrideBuiltIns": false
+    }    
   ]
 }
